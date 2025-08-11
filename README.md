@@ -467,6 +467,25 @@ Esta práctica forma parte esencial de la filosofía DevOps, que busca integrar 
 
 ### d. Documentar el proceso seguido para desplegar la parte 2 del laboratorio
 
+1. Se creó localmente la carpeta del proyecto llamada **Laboratorio-1\_Desarrollo-Moderno**.
+
+2. Se añadieron los archivos principales:
+
+   * `README.md`, con un desglose de las secciones a desarrollar en el laboratorio.
+   * `index.html`, proporcionado por el profesor para mostrar la información del README en un navegador.
+
+3. Desde Visual Studio Code se inicializó el repositorio Git y se conectó a GitHub para gestionar el control de versiones del proyecto.
+
+4. Se completaron y actualizaron las secciones del archivo `README.md` con el contenido requerido para el laboratorio.
+
+5. En la configuración del repositorio en GitHub se habilitó GitHub Pages:
+
+   * Se seleccionó la rama principal.
+   * Se configuró la carpeta raíz (`/root`) como fuente del contenido para el despliegue.
+
+6. GitHub Pages generó una URL pública para acceder al sitio web estático con el contenido del archivo `index.html`.
+
+7. Se verificó que el despliegue estuviera funcionando correctamente, permitiendo la presentación del trabajo en línea.
 
 ---
 
