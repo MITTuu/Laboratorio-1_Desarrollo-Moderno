@@ -487,12 +487,6 @@ Esta práctica forma parte esencial de la filosofía DevOps, que busca integrar 
 
 7. Se verificó que el despliegue estuviera funcionando correctamente, permitiendo la presentación del trabajo en línea.
 
----
-
-## ✅ Principios aplicados en este proyecto
-
----
-
 ## 📎 Créditos y referencias
 
 #### 1. Frameworks de desarrollo web
